@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Demo 2 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost
+Data file = /Applications/MAMP/htdocs/MyStore/wp-content/uploads/2021/09/demo-content-import-file_2021-09-28__15-58-15.xml
+Widget file = /Applications/MAMP/htdocs/MyStore/wp-content/uploads/2021/09/demo-widgets-import-file_2021-09-28__15-58-15.json
+Customizer file = /Applications/MAMP/htdocs/MyStore/wp-content/uploads/2021/09/demo-customizer-import-file_2021-09-28__15-58-15.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Product Search - No Title - Imported
+Cart - Cart - Imported
+Products list - Products - Imported
+Filter Products by Price - Filter by price - Imported
+Product Tag Cloud - Product tags - Imported
+Product Categories - Product categories - Imported
+Recently Viewed Products list - Recently Viewed Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
